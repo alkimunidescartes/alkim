@@ -1,0 +1,492 @@
+{
+    "easy": {
+        "What is the capital of France?": {
+            "options": ["Paris", "London", "Berlin", "Rome"],
+            "answer": "Paris"
+        },
+        "Which country is known for the pyramids of Giza?":{
+            "options": ["Mexico", "Greece", "Egypt", "India"],
+            "answer": "Egypt"
+        },  
+        "What is the national sport of Japan?":{
+            "options": ["Karate", "Sumo", "Baseball", "Judo"],
+            "answer": "Sumo"
+        },
+        "Which musical instrument is closely associated with Scotland?":{
+            "options": ["Bagpipes", "Guitar", "Drums", "Flute"],
+            "answer": "Bagpipes"
+        },
+        "Which country celebrates the Day of the Dead?":{
+            "options": ["Brazil", "Mexico", "Peru", "Argentina"],
+            "answer": "Mexico"
+        },
+        "Which Italian city is famous for its canals?":{
+            "options": ["Rome", "Florence", "Milan", "Venice"],
+            "answer": "Venice"
+        },
+        "In which country is the Taj Mahal located?":{
+            "options": ["India", "Pakistan", "Bangladesh", "Nepal"],
+            "answer": "India"
+        },
+        "What traditional Spanish dance is known for its clapping and guitar music?":{
+            "options": ["Flamenco", "Tango", "Samba", "Waltz"],
+            "answer": "Flamenco"
+        },
+        "What is 2 + 2?": {
+            "options": ["3", "4", "5", "6"],
+            "answer": "4"
+        },
+        "What color do you get when you mix red and white?": {
+            "options": ["Pink", "Purple", "Orange", "Brown"],
+            "answer": "Pink"
+        },
+        "What is the largest ocean on Earth?": {
+            "options": ["Atlantic", "Indian", "Arctic", "Pacific"],
+            "answer": "Pacific"
+        },
+        "Which animal is known as the King of the Jungle?": {
+            "options": ["Elephant", "Lion", "Tiger", "Gorilla"],
+            "answer": "Lion"
+        },
+        "What is the freezing point of water?": {
+            "options": ["0 degrees Celsius", "100 degrees Celsius", "32 degrees Fahrenheit", "50 degrees Fahrenheit"],
+            "answer": "0 degrees Celsius"
+        },
+        "Which planet is known as the Red Planet?": {
+            "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+            "answer": "Mars"
+        },
+        "What is the sum of angles in a triangle?": {
+            "options": ["90 degrees", "180 degrees", "360 degrees", "270 degrees"],
+            "answer": "180 degrees"
+        },
+        "How many continents are there?": {
+            "options": ["5", "6", "7", "8"],
+            "answer": "7"
+        },
+        "What is the capital of Japan?": {
+            "options": ["Seoul", "Beijing", "Tokyo", "Bangkok"],
+            "answer": "Tokyo"
+        },
+        "Which gas do plants absorb from the atmosphere?": {
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+            "answer": "Carbon Dioxide"
+        },
+        "What is the boiling point of water?": {
+            "options": ["0 degrees Celsius", "100 degrees Celsius", "50 degrees Celsius", "25 degrees Celsius"],
+            "answer": "100 degrees Celsius"
+        },
+        "Which month has Valentine's Day?": {
+            "options": ["January", "February", "March", "April"],
+            "answer": "February"
+        },
+        "What is the name of the fairy in Peter Pan?": {
+            "options": ["Tinkerbell", "Cinderella", "Snow White", "Belle"],
+            "answer": "Tinkerbell"
+        },
+        "What is the largest land animal?": {
+            "options": ["Elephant", "Rhino", "Giraffe", "Hippo"],
+            "answer": "Elephant"
+        },
+        "Which is the smallest prime number?": {
+            "options": ["1", "2", "3", "5"],
+            "answer": "2"
+        },
+        "What do you call a baby cat?": {
+            "options": ["Kitten", "Puppy", "Cub", "Foal"],
+            "answer": "Kitten"
+        },
+        "Which country is known as the Land of the Rising Sun?": {
+            "options": ["China", "Japan", "Korea", "Thailand"],
+            "answer": "Japan"
+        },
+        "What is 10 + 5?": {
+            "options": ["12", "15", "17", "10"],
+            "answer": "15"
+        },
+        "Which is the largest planet in our solar system?": {
+            "options": ["Earth", "Jupiter", "Saturn", "Mars"],
+            "answer": "Jupiter"
+        },
+        "What is the capital of Italy?": {
+            "options": ["Rome", "Paris", "Madrid", "Berlin"],
+            "answer": "Rome"
+        },
+        "Which country was the first to land a man on the moon?": {
+            "options": ["USA", "Russia", "China", "India"],
+            "answer": "USA"
+        },
+        "Who was the first President of the United States?": {
+            "options": ["Abraham Lincoln", "George Washington", "Thomas Jefferson", "John Adams"],
+            "answer": "George Washington"
+        },
+        "In which year did World War I begin?": {
+            "options": ["1914", "1918", "1939", "1945"],
+            "answer": "1914"
+        },
+        "What was the name of the ship that famously sank in 1912?": {
+            "options": ["Titanic", "Britannic", "Lusitania", "Olympic"],
+            "answer": "Titanic"
+        },
+        "Which ancient civilization built the pyramids?": {
+            "options": ["Romans", "Egyptians", "Greeks", "Mayans"],
+            "answer": "Egyptians"
+        }
+    },
+    "medium": {
+        "Who wrote 'Romeo and Juliet'?": {
+            "options": ["Shakespeare", "Dickens", "Austen", "Hemingway"],
+            "answer": "Shakespeare"
+        },
+        "What is the square root of 144?": {
+            "options": ["10", "11", "12", "13"],
+            "answer": "12"
+        },
+        "Which country is home to the Great Barrier Reef?": {
+        "options": ["Brazil", "Australia", "Indonesia", "South Africa"],
+        "answer": "Australia"
+        },
+        "In which European city would you find the Colosseum?": {
+            "options": ["Paris", "Rome", "Berlin", "Athens"],
+            "answer": "Rome"
+        },
+        "Which country is famous for the traditional dance, Flamenco?": {
+            "options": ["Portugal", "Argentina", "Spain", "Mexico"],
+            "answer": "Spain"
+        },
+        "What is the name of the desert covering much of northern Africa?": {
+            "options": ["Sahara", "Gobi", "Kalahari", "Atacama"],
+            "answer": "Sahara"
+        },
+        "Which Asian country is known for its Samurai warriors?": {
+            "options": ["China", "Japan", "Thailand", "South Korea"],
+            "answer": "Japan"
+        },
+        "In which country is the ancient site of Machu Picchu located?": {
+            "options": ["Mexico", "Peru", "Chile", "Brazil"],
+            "answer": "Peru"
+        },
+        "Which European country is famous for inventing pizza?": {
+            "options": ["France", "Italy", "Greece", "Turkey"],
+            "answer": "Italy"
+        },
+        "What is the national dish of Scotland made from sheep's stomach?": {
+            "options": ["Sushi", "Haggis", "Paella", "Couscous"],
+            "answer": "Haggis"
+        },
+        "Which country is known as the Land of the Rising Sun?": {
+            "options": ["China", "Japan", "Thailand", "Vietnam"],
+            "answer": "Japan"
+        },
+        "In which city is the Louvre Museum located?": {
+            "options": ["London", "Paris", "Berlin", "Madrid"],
+            "answer": "Paris"
+        },
+        "Which element has the chemical symbol 'O'?": {
+            "options": ["Oxygen", "Gold", "Osmium", "Oganesson"],
+            "answer": "Oxygen"
+        },
+        "In which year did the Titanic sink?": {
+            "options": ["1910", "1912", "1914", "1916"],
+            "answer": "1912"
+        },
+        "Who painted the Mona Lisa?": {
+            "options": ["Van Gogh", "Da Vinci", "Picasso", "Monet"],
+            "answer": "Da Vinci"
+        },
+        "What is the hardest natural substance on Earth?": {
+            "options": ["Gold", "Iron", "Diamond", "Graphite"],
+            "answer": "Diamond"
+        },
+        "What is the main ingredient in guacamole?": {
+            "options": ["Tomato", "Avocado", "Onion", "Pepper"],
+            "answer": "Avocado"
+        },
+        "Which planet is known for its rings?": {
+            "options": ["Earth", "Mars", "Saturn", "Jupiter"],
+            "answer": "Saturn"
+        },
+        "What is the capital city of Australia?": {
+            "options": ["Sydney", "Melbourne", "Canberra", "Brisbane"],
+            "answer": "Canberra"
+        },
+        "Which gas is most abundant in the Earth's atmosphere?": {
+            "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+            "answer": "Nitrogen"
+        },
+        "What is the chemical formula for water?": {
+            "options": ["H2O", "O2", "CO2", "NaCl"],
+            "answer": "H2O"
+        },
+        "Who discovered penicillin?": {
+            "options": ["Fleming", "Pasteur", "Lister", "Curie"],
+            "answer": "Fleming"
+        },
+        "What is the longest river in the world?": {
+            "options": ["Amazon", "Nile", "Yangtze", "Mississippi"],
+            "answer": "Nile"
+        },
+        "Who was the first person to walk on the Moon?": {
+            "options": ["Armstrong", "Aldrin", "Gagarin", "Glenn"],
+            "answer": "Armstrong"
+        },
+        "What is the capital of Egypt?": {
+            "options": ["Cairo", "Alexandria", "Giza", "Luxor"],
+            "answer": "Cairo"
+        },
+        "What is the currency of Japan?": {
+            "options": ["Yen", "Won", "Dollar", "Euro"],
+            "answer": "Yen"
+        },
+        "What is the largest mammal in the world?": {
+            "options": ["Elephant", "Blue Whale", "Giraffe", "Great White Shark"],
+            "answer": "Blue Whale"
+        },
+        "Which continent is known as the Dark Continent?": {
+            "options": ["Asia", "Africa", "Australia", "South America"],
+            "answer": "Africa"
+        },
+        "Which country is famous for the Great Wall?": {
+            "options": ["India", "Japan", "China", "Korea"],
+            "answer": "China"
+        },
+        "Who is known as the father of modern physics?": {
+            "options": ["Einstein", "Newton", "Galileo", "Tesla"],
+            "answer": "Einstein"
+        },
+        "Which empire was ruled by Genghis Khan?": {
+            "options": ["Roman Empire", "Ottoman Empire", "Mongol Empire", "Byzantine Empire"],
+            "answer": "Mongol Empire"
+        },
+        "Who was the British Prime Minister during World War II?": {
+            "options": ["Winston Churchill", "Neville Chamberlain", "Margaret Thatcher", "Tony Blair"],
+            "answer": "Winston Churchill"
+        },
+        "The signing of which document in 1215 limited the powers of the English king?": {
+            "options": ["Bill of Rights", "Magna Carta", "Constitution", "Habeas Corpus"],
+            "answer": "Magna Carta"
+        },
+        "Which empire was known as the 'Sick Man of Europe' in the 19th century?": {
+            "options": ["Austro-Hungarian Empire", "Ottoman Empire", "Russian Empire", "Spanish Empire"],
+            "answer": "Ottoman Empire"
+        },
+        "Which war was fought between the North and South regions of the United States?": {
+            "options": ["World War I", "Revolutionary War", "Civil War", "Vietnam War"],
+            "answer": "Civil War"
+        },
+        "What is the largest desert in the world?": {
+            "options": ["Sahara", "Arabian", "Gobi", "Kalahari"],
+            "answer": "Sahara"
+        },
+        "What is the process by which plants make food called?": {
+            "options": ["Respiration", "Photosynthesis", "Transpiration", "Digestion"],
+            "answer": "Photosynthesis"
+        }
+    },
+    "hard": {
+    "What is the capital of Bhutan?": {
+        "options": ["Thimphu", "Kathmandu", "Lhasa", "Dhaka"],
+        "answer": "Thimphu"
+    },
+    "Which African country was formerly known as Abyssinia?": {
+        "options": ["Ethiopia", "Egypt", "Ghana", "Sudan"],
+        "answer": "Ethiopia"
+    },
+    "Which ancient civilization built the famous city of Petra?": {
+        "options": ["Egyptians", "Nabataeans", "Romans", "Greeks"],
+        "answer": "Nabataeans"
+    },
+    "In which country can you visit the Terracotta Army?": {
+        "options": ["India", "China", "Japan", "Cambodia"],
+        "answer": "China"
+    },
+    "Which Polynesian island is known for its mysterious Moai statues?": {
+        "options": ["Tahiti", "Hawaii", "Easter Island", "Fiji"],
+        "answer": "Easter Island"
+    },
+    "Which ancient city is located in present-day Iraq and was known as a center of learning?": {
+        "options": ["Carthage", "Athens", "Babylon", "Tenochtitlan"],
+        "answer": "Babylon"
+    },
+    "Which country is famous for the Tango dance?": {
+        "options": ["Brazil", "Argentina", "Spain", "Portugal"],
+        "answer": "Argentina"
+    },
+    "Which desert is known for being the driest place on Earth?": {
+        "options": ["Sahara", "Gobi", "Atacama", "Kalahari"],
+        "answer": "Atacama"
+    },
+    "Which city is home to the ancient Acropolis?": {
+        "options": ["Athens", "Rome", "Istanbul", "Cairo"],
+        "answer": "Athens"
+    },
+    "In which modern country is the historical city of Troy located?": {
+        "options": ["Turkey", "Greece", "Italy", "Lebanon"],
+        "answer": "Turkey"
+    },
+    "Which country is known for the Shinto religion?": {
+        "options": ["China", "Japan", "India", "Thailand"],
+        "answer": "Japan"
+    },
+    "What is the speed of light?": {
+        "options": ["300,000 km/s", "150,000 km/s", "450,000 km/s", "900,000 km/s"],
+        "answer": "300,000 km/s"
+    },
+    "Which physicist developed the theory of relativity?": {
+        "options": ["Newton", "Einstein", "Hawking", "Bohr"],
+        "answer": "Einstein"
+    },
+    "What is the main language spoken in Brazil?": {
+        "options": ["Spanish", "Portuguese", "English", "French"],
+        "answer": "Portuguese"
+    },
+    "In what year did World War I begin?": {
+        "options": ["1914", "1916", "1918", "1910"],
+        "answer": "1914"
+    },
+    "What is the highest mountain in North America?": {
+        "options": ["Denali", "Mount Rainier", "Mount St. Helens", "Mount Logan"],
+        "answer": "Denali"
+    },
+    "Which chemical element has the symbol 'Fe'?": {
+        "options": ["Fluorine", "Francium", "Iron", "Fermium"],
+        "answer": "Iron"
+    },
+    "What is the capital of Turkey?": {
+        "options": ["Istanbul", "Ankara", "Izmir", "Antalya"],
+        "answer": "Ankara"
+    },
+    "Which planet has the most moons?": {
+        "options": ["Earth", "Mars", "Jupiter", "Saturn"],
+        "answer": "Saturn"
+    },
+    "Who was the first female Prime Minister of the United Kingdom?": {
+        "options": ["Margaret Thatcher", "Theresa May", "Angela Merkel", "Indira Gandhi"],
+        "answer": "Margaret Thatcher"
+    },
+    "What is the hardest natural substance on Earth?": {
+        "options": ["Diamond", "Iron", "Gold", "Quartz"],
+        "answer": "Diamond"
+    },
+    "What is the longest river in South America?": {
+        "options": ["Amazon", "Nile", "Paraná", "Orinoco"],
+        "answer": "Amazon"
+    },
+    "Who wrote 'The Iliad' and 'The Odyssey'?": {
+        "options": ["Homer", "Virgil", "Ovid", "Sophocles"],
+        "answer": "Homer"
+    },
+    "What is the capital of Iceland?": {
+        "options": ["Reykjavik", "Oslo", "Helsinki", "Copenhagen"],
+        "answer": "Reykjavik"
+    },
+    "What is the largest desert in the world?": {
+        "options": ["Sahara", "Arabian", "Gobi", "Antarctic"],
+        "answer": "Antarctic"
+    },
+    "In which year did the Berlin Wall fall?": {
+        "options": ["1987", "1988", "1989", "1990"],
+        "answer": "1989"
+    },
+    "Which artist painted the Sistine Chapel ceiling?": {
+        "options": ["Michelangelo", "Da Vinci", "Raphael", "Botticelli"],
+        "answer": "Michelangelo"
+    },
+    "What is the capital city of Australia?": {
+        "options": ["Sydney", "Canberra", "Melbourne", "Brisbane"],
+        "answer": "Canberra"
+    },
+    "Which gas is most abundant in the Earth's atmosphere?": {
+        "options": ["Oxygen", "Nitrogen", "Carbon Dioxide", "Helium"],
+        "answer": "Nitrogen"
+    },
+    "What year did the Chernobyl disaster occur?": {
+        "options": ["1986", "1991", "1989", "1978"],
+        "answer": "1986"
+    },
+    "What is the main ingredient in traditional hummus?": {
+        "options": ["Chickpeas", "Lentils", "Beans", "Peas"],
+        "answer": "Chickpeas"
+    },
+    "Who discovered the law of gravity?": {
+        "options": ["Einstein", "Newton", "Galileo", "Kepler"],
+        "answer": "Newton"
+    },
+    "What is the name of the longest river in Africa?": {
+        "options": ["Nile", "Congo", "Niger", "Zambezi"],
+        "answer": "Nile"
+    },
+    "What is the largest planet in our solar system?": {
+        "options": ["Jupiter", "Saturn", "Earth", "Mars"],
+        "answer": "Jupiter"
+    },
+    "What is the most spoken language in the world?": {
+        "options": ["Mandarin", "Spanish", "English", "Hindi"],
+        "answer": "Mandarin"
+    },
+    "In which country is the Great Pyramid of Giza located?": {
+        "options": ["Egypt", "Greece", "Turkey", "Mexico"],
+        "answer": "Egypt"
+    },
+    "What is the capital of Greece?": {
+        "options": ["Athens", "Rome", "Paris", "Berlin"],
+        "answer": "Athens"
+    },
+    "Which famous scientist introduced the concept of natural selection?": {
+        "options": ["Darwin", "Lamarck", "Mendel", "Huxley"],
+        "answer": "Darwin"
+    },
+    "What is the chemical symbol for gold?": {
+        "options": ["Ag", "Au", "Pb", "Fe"],
+        "answer": "Au"
+    },
+    "Which city is known as the City of Love?": {
+        "options": ["Rome", "Paris", "Venice", "New York"],
+        "answer": "Paris"
+    },
+    "What year did World War II end?": {
+        "options": ["1945", "1944", "1946", "1943"],
+        "answer": "1945"
+    },
+    "What is the name of the largest ocean on Earth?": {
+        "options": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean", "Pacific Ocean"],
+        "answer": "Pacific Ocean"
+    },
+    "Who wrote 'The Catcher in the Rye'?": {
+        "options": ["Salinger", "Hemingway", "Fitzgerald", "Orwell"],
+        "answer": "Salinger"
+    },
+    "What is the chemical formula for table salt?": {
+        "options": ["NaCl", "KCl", "CaCl2", "MgCl2"],
+        "answer": "NaCl"
+    },
+    "Which country is known as the Land of the Rising Sun?": {
+        "options": ["China", "Japan", "Korea", "Vietnam"],
+        "answer": "Japan"
+    },
+     "What was the capital of the Eastern Roman Empire?": {
+        "options": ["Rome", "Athens", "Constantinople", "Alexandria"],
+        "answer": "Constantinople"
+    },
+    "Which ancient civilization was ruled by Hammurabi, known for his legal code?": {
+        "options": ["Babylonians", "Sumerians", "Assyrians", "Persians"],
+        "answer": "Babylonians"
+    },
+    "The Treaty of Versailles was signed at the end of which war?": {
+        "options": ["World War I", "World War II", "Franco-Prussian War", "Crimean War"],
+        "answer": "World War I"
+    },
+    "Which historical figure is known for crossing the Alps with elephants during the Punic Wars?": {
+        "options": ["Hannibal", "Julius Caesar", "Alexander the Great", "Scipio Africanus"],
+        "answer": "Hannibal"
+    },
+    "Who was the first emperor of China, known for unifying the country?": {
+        "options": ["Qin Shi Huang", "Kublai Khan", "Sun Tzu", "Liu Bang"],
+        "answer": "Qin Shi Huang"
+    },
+    "Which country has the longest coastline in the world?": {
+        "options": ["Canada", "Australia", "Russia", "United States"],
+        "answer": "Canada"
+    }
+}
+}
